@@ -27,6 +27,6 @@ Proyecto parte de la serie *El Laberinto MX*
 
 ## 📚 Fuente de datos
 
-- Gaceta Parlamentaria, Cámara de Diputados (2022)
+- Gaceta Parlamentaria, Cámara de Diputados (2022) https://gaceta.diputados.gob.mx/Gaceta/Votaciones/65/tabla3or1-71.php3
 - Observación directa de la votación por partido
 
